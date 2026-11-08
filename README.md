@@ -2,7 +2,7 @@
 
 Use [Shotboard](https://getshotboard.com) from Claude Code, Codex, Gemini CLI, Grok, Cursor or any MCP client.
 
-Shotboard is a Mac app for making marketing content with AI: ads, UGC videos, App Store screenshots and thumbnails, on one canvas. It has 101 image, video and audio models from fal, Replicate, Higgsfield, xAI and Gemini, used with your own keys and no markup. While the app is open, it serves its canvas as MCP tools at `http://127.0.0.1:4317/mcp`, so your agent can search ads, write scripts and generate media on your board.
+Shotboard is a Mac app for making marketing content with AI: ads, UGC videos, App Store screenshots and thumbnails, on one canvas. It has 100 image, video and audio models from fal, Replicate, Higgsfield, xAI and Gemini, used with your own keys and no markup. While the app is open, it serves its canvas as MCP tools at `http://127.0.0.1:4317/mcp`, so your agent can search ads, write scripts and generate media on your board.
 
 This repo has the connection setup and the built-in skills. The app itself is at [getshotboard.com/download](https://getshotboard.com/download).
 

@@ -1,6 +1,6 @@
 {
   "name": "shotboard",
-  "description": "Drive the Shotboard Mac canvas from Claude Code: search ads, write scripts, generate images, video and audio with 101 models.",
+  "description": "Drive the Shotboard Mac canvas from Claude Code: search ads, write scripts, generate images, video and audio with 100 media models.",
   "version": "1.0.0",
   "author": { "name": "Shotboard", "url": "https://getshotboard.com" },
   "homepage": "https://getshotboard.com",
