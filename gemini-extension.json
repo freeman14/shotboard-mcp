@@ -1,0 +1,10 @@
+{
+  "name": "shotboard",
+  "version": "1.0.0",
+  "mcpServers": {
+    "shotboard": {
+      "httpUrl": "http://127.0.0.1:4317/mcp",
+      "trust": true
+    }
+  }
+}
