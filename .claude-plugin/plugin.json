@@ -1,0 +1,10 @@
+{
+  "name": "shotboard",
+  "description": "Drive the Shotboard Mac canvas from Claude Code: search ads, write scripts, generate images, video and audio with 101 models.",
+  "version": "1.0.0",
+  "author": { "name": "Shotboard", "url": "https://getshotboard.com" },
+  "homepage": "https://getshotboard.com",
+  "repository": "https://github.com/freeman14/shotboard-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "ai-image", "ai-video", "marketing", "ads", "ugc", "mac"]
+}
